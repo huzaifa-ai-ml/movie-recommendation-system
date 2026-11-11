@@ -46,3 +46,6 @@ artifacts/
 
 # Google Colab
 drive/
+
+# Allow project model artifacts
+!models/*.pkl
